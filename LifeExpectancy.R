@@ -1,12 +1,3 @@
-###########################################################################
-##
-# name: Zongzhen Lee   UID: 205362815
-# Homework 9 project
-# programs perform 3 analysis (kmean, PCA, MLE) on national Life expectancy
-# from year 2010 and year 2015
-##
-###########################################################################
-
 ## load data of national life expectancy source from Kaggle, numbers from WHO
 ## 20 variables, 157 observations with data from year 2010
 data.10=read.csv("data10.csv", header=T)
